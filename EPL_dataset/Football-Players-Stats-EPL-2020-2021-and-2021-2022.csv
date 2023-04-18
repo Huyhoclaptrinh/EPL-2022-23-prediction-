@@ -1,0 +1,1079 @@
+No,Player,Team,Seasons,Apps,Min,G,A,xG,xA
+1,Alexandre Lacazette,Arsenal,2021,31,1939,13,2,12.03,2.21
+2, Pierre-Emerick Aubameyang ,Arsenal,2021,29,2333,10,3,10.45,2.43
+3,Nicolas Pepe,Arsenal,2021,29,1602,10,1,6,1.01
+4,Bukayo Saka,Arsenal,2021,32,2577,5,3,7.17,4.51
+5,Gabriel,Arsenal,2021,23,1994,2,0,1.56,0.06
+6,Eddie Nketiah,Arsenal,2021,17,405,2,1,2.02,0.74
+7,Emile Smith-Rowe,Arsenal,2021,20,1456,2,4,1.59,3.62
+8,Gabriel Martinelli,Arsenal,2021,14,581,2,1,3.25,1.75
+9,Granit Xhaka,Arsenal,2021,31,2537,1,2,0.78,1.46
+10,Héctor Bellerín,Arsenal,2021,25,2098,1,2,0.86,2.17
+11,Mohamed Elneny,Arsenal,2021,23,1540,1,0,0.48,0.26
+12,Willian,Arsenal,2021,25,1413,1,5,1.83,3.59
+13,David Luiz,Arsenal,2021,20,1410,1,0,0.67,0.52
+14,Martin Odegaard,Arsenal,2021,14,865,1,2,0.62,1.96
+15,Kieran Tierney,Arsenal,2021,27,2305,1,3,0.39,3.82
+16,Bernd Leno,Arsenal,2021,35,3136,0,0,0,0
+17, Sead Kolasinac ,Arsenal,2021,1,90,0,0,0,0
+18,Calum Chambers,Arsenal,2021,10,750,0,2,0.36,1.04
+19,Cédric Soares,Arsenal,2021,10,746,0,1,0.2,0.89
+20,Shkodran Mustafi,Arsenal,2021,3,43,0,0,0,0
+21,Rob Holding,Arsenal,2021,30,2548,0,1,0.73,0.2
+22,Ainsley Maitland-Niles ,Arsenal,2021,11,483,0,0,0.1,0.08
+23,Thomas Partey,Arsenal,2021,24,1543,0,2,1.16,1.12
+24,Mat Ryan,Arsenal,2021,3,270,0,0,0,0.06
+25,Dani Ceballos,Arsenal,2021,25,1613,0,3,0.66,2.58
+26,Reiss Nelson,Arsenal,2021,2,59,0,0,0.06,0
+27,Joe Willock,Arsenal,2021,7,229,0,0,0.24,0.06
+28,Rúnar Alex Rúnarsson,Arsenal,2021,1,11,0,0,0,0
+29,Pablo Marí,Arsenal,2021,10,900,0,0,0.04,0.05
+1,Ilkay Gündogan,Man City,2021,28,2033,13,2,9.57,3.82
+2,Raheem Sterling,Man City,2021,31,2539,10,7,12.05,6.63
+3,Riyad Mahrez,Man City,2021,27,1961,9,6,6.23,6.09
+4,Gabriel Jesus,Man City,2021,29,2053,9,4,9.65,3.55
+5,Phil Foden,Man City,2021,28,1606,9,5,6.08,4.75
+6,Ferrán Torres,Man City,2021,24,1305,7,2,5.73,2.2
+7,Kevin De Bruyne,Man City,2021,25,2008,6,12,9.98,10.96
+8,John Stones,Man City,2021,22,1933,4,0,2.5,0.05
+9,Sergio Agüero,Man City,2021,12,556,4,1,3.72,1.32
+10,João Cancelo,Man City,2021,28,2309,2,3,1.887,5.18
+11,Rodri,Man City,2021,34,2751,2,2,2.66,2.34
+12,Benjamin Mendy,Man City,2021,13,955,2,1,0.33,0.3
+13,Bernardo Silva,Man City,2021,26,2080,2,6,3.6,4.82
+14,Nathan Aké,Man City,2021,10,802,1,0,0.51,0.02
+15,Kyle Walker,Man City,2021,24,1944,1,1,0.2,0.5
+16,Rúben Dias,Man City,2021,32,2848,1,0,1.95,0.11
+17,Fernandinho,Man City,2021,21,1170,0,2,0.82,1.54
+18,Aymeric Laporte,Man City,2021,16,1335,0,0,0.84,0.58
+19,Oleksandr Zinchenko,Man City,2021,20,1473,0,0,0.66,1.09
+20,Ederson,Man City,2021,36,3240,0,1,0,0.3
+21,Zack Steffen,Man City,2021,1,90,0,0,0,0
+22,Eric Garcia,Man City,2021,6,378,0,0,0.07,0.01
+23,Scott Carson,Man City,2021,1,90,0,0,0,0
+24,Liam Delap,Man City,2021,1,39,0,0,0.06,0
+1,Bruno Fernandes,Man United,2021,37,3117,18,12,16.02,11.47
+2,Marcus Rashford,Man United,2021,37,2941,11,9,9.58,4.19
+3,Edinson Cavani,Man United,2021,26,1355,10,3,8.6,2.32
+4,Mason Greenwood,Man United,2021,31,1825,7,2,6.98,2.43
+5,Anthony Martial,Man United,2021,22,1494,4,3,7.41,2.62
+6,Scott McTominay,Man United,2021,32,2121,4,1,1.85,2.11
+7,Paul Pogba,Man United,2021,26,1893,3,3,2.99,2.07
+8,Daniel James,Man United,2021,15,920,3,1,2.31,1.33
+9,Harry Maguire,Man United,2021,34,3049,2,1,1.48,0.29
+10,Aaron Wan-Bissaka,Man United,2021,34,3060,2,4,0.93,2.55
+11,Juan Mata,Man United,2021,9,518,1,2,1.07,0.72
+12,Luke Shaw,Man United,2021,32,2659,1,5,0.69,6.47
+13,Victor Lindelöf,Man United,2021,29,2587,1,1,0.8,0.4
+14,Fred,Man United,2021,30,2404,1,0,1.73,2.23
+15,Donny van de Beek,Man United,2021,19,486,1,1,0.29,1.04
+16,Anthony Elanga,Man United,2021,2,157,1,0,0.55,0.02
+17,David de Gea,Man United,2021,26,2298,0,0,0,0
+18,Timothy Fosu-Mensah,Man United,2021,1,85,0,0,0.02,0.31
+19,Odion Ighalo,Man United,2021,1,5,0,0,0,0
+20,Nemanja Matic,Man United,2021,20,1099,0,0,0.16,0.89
+21,Axel Tuanzebe,Man United,2021,9,401,0,0,0,0
+22,Eric Bailly,Man United,2021,12,916,0,0,0.08,0
+23,Alex Telles,Man United,2021,9,696,0,2,0.15,0.78
+24,Dean Henderson,Man United,2021,13,1122,0,0,0,0
+25,Brandon Williams,Man United,2021,4,185,0,0,0.27,0.03
+26,Amad Diallo Traore,Man United,2021,3,172,0,1,0.04,0.42
+27,Shola Shoretire,Man United,2021,2,4,0,0,0,0
+28,William Fish,Man United,2021,1,1,0,0,0,0
+29,Hannibal Mejbri,Man United,2021,1,3,0,0,0,0
+1,Mohamed Salah,Liverpool,2021,37,3085,22,5,20.25,6.53
+2,Sadio Mané,Liverpool,2021,35,2805,11,7,14.83,7.79
+3,Roberto Firmino,Liverpool,2021,36,2882,9,7,12.86,6.12
+4,Diogo Jota,Liverpool,2021,19,1114,9,0,7.06,1.76
+5,Georginio Wijnaldum,Liverpool,2021,38,2961,2,0,2.82,1.66
+6,Trent Alexander-Arnold,Liverpool,2021,36,3040,2,7,2.59,8.58
+7,Thiago Alcántara,Liverpool,2021,24,1865,1,0,1.21,2.55
+8,Joel Matip,Liverpool,2021,10,701,1,2,0.78,1.18
+9,Jordan Henderson,Liverpool,2021,21,1710,1,1,1.14,1.48
+10,Virgil van Dijk,Liverpool,2021,5,370,1,0,0.55,0
+11,Alex Oxlade-Chamberlain,Liverpool,2021,13,238,1,1,0.3,0.3
+12,Alisson,Liverpool,2021,33,2970,1,0,0.11,0
+13,Andrew Robertson,Liverpool,2021,38,3391,1,7,1.44,7.22
+14,Curtis Jones,Liverpool,2021,24,1174,1,2,1.78,1.52
+15,Nathaniel Phillips,Liverpool,2021,17,1451,1,1,1.03,0.92
+16,Takumi Minamino,Liverpool,2021,9,276,1,0,1.27,0
+17,Divock Origi,Liverpool,2021,9,176,0,0,1.08,0.14
+18,James Milner,Liverpool,2021,26,1037,0,1,0.36,0.79
+19,Adrián,Liverpool,2021,3,270,0,0,0,0
+20,Xherdan Shaqiri,Liverpool,2021,14,534,0,2,0.42,2.51
+21,Joseph Gomez,Liverpool,2021,7,594,0,0,0,0.07
+22,Fabinho,Liverpool,2021,30,2563,0,0,0.36,0.3
+23,Naby Keita,Liverpool,2021,10,525,0,0,0.39,0.91
+24,Ozan Kabak,Liverpool,2021,9,807,0,0,0.09,0.03
+25,Caoimhin Kelleher,Liverpool,2021,2,180,0,0,0,0
+26,Neco Williams,Liverpool,2021,6,252,0,0,0.09,0.19
+27,Konstantinos Tsimikas,Liverpool,2021,2,4,0,0,0,0
+28,Rhys Williams,Liverpool,2021,9,661,0,0,0.55,0.22
+1,Jorginho,Chelsea,2021,28,2022,7,1,6.97,1.95
+2,Timo Werner,Chelsea,2021,35,2605,6,8,13.43,6.67
+3,Tammy Abraham,Chelsea,2021,22,1027,6,1,6.19,0.72
+4,Mason Mount,Chelsea,2021,36,2891,6,5,6.88,9.85
+5,Kurt Zouma,Chelsea,2021,24,2024,5,0,3.14,0.08
+6,Olivier Giroud,Chelsea,2021,17,750,4,0,5.07,1.18
+7,Christian Pulisic,Chelsea,2021,27,1739,4,2,6.78,2.76
+8,Kai Havertz,Chelsea,2021,27,1523,4,3,6.35,1.55
+9,Ben Chilwell,Chelsea,2021,27,2296,3,5,2.98,2.46
+10,Marcos Alonso,Chelsea,2021,13,962,2,0,1.82,1.72
+11,Thiago Silva,Chelsea,2021,23,1938,2,0,1.32,0.29
+12,Callum Hudson-Odoi,Chelsea,2021,23,1048,2,3,1.37,3.1
+13,Hakim Ziyech,Chelsea,2021,23,1182,2,3,1.99,4.48
+14,César Azpilicueta,Chelsea,2021,26,2189,1,2,0.5,2.58
+15,Antonio Rüdiger,Chelsea,2021,19,1710,1,0,1.14,0.31
+16,Reece James,Chelsea,2021,32,2355,1,2,1.53,3.65
+17,Andreas Christensen,Chelsea,2021,17,1375,0,0,0.13,0.25
+18,Ross Barkley,Chelsea,2021,2,35,0,0,0.02,0.12
+19,Willy Caballero,Chelsea,2021,1,90,0,0,0,0
+20,Ruben Loftus-Cheek,Chelsea,2021,1,65,0,0,0,0
+21,Fikayo Tomori,Chelsea,2021,1,43,0,0,0,0
+22,N'Golo Kanté,Chelsea,2021,30,2142,0,2,0.7,1.21
+23,Emerson,Chelsea,2021,2,88,0,0,0,0
+24,Mateo Kovacic,Chelsea,2021,27,1833,0,1,0.93,1.92
+25,Kepa,Chelsea,2021,7,582,0,0,0,0
+26,Edouard Mendy,Chelsea,2021,31,2748,0,0,0,0
+27,Billy Gilmour,Chelsea,2021,5,256,0,0,0.05,0.12
+1,Jamie Vardy,Leicester,2021,34,2848,15,9,19.94,5.09
+2,Kelechi Iheanacho,Leicester,2021,25,1452,12,2,9.05,3.53
+3,Harvey Barnes,Leicester,2021,25,1954,9,4,6.7,1.77
+4,James Maddison,Leicester,2021,31,2123,8,5,3.83,5.39
+5,Youri Tielemans,Leicester,2021,38,3359,6,4,4.17,3.31
+6,Ayoze Pérez,Leicester,2021,25,1326,2,1,4.04,1.25
+7,Jonny Evans,Leicester,2021,28,2483,2,2,1.86,0.54
+8,Timothy Castagne,Leicester,2021,27,2349,2,3,1.6,2.31
+9,James Justin,Leicester,2021,23,2070,2,1,1.52,2.06
+10,Marc Albrighton,Leicester,2021,31,1731,1,5,1.25,4.04
+11,Daniel Amartey,Leicester,2021,12,714,1,0,0.54,0
+12,Dennis Praet,Leicester,2021,15,730,1,1,0.44,1.22
+13,Caglar Söyüncü,Leicester,2021,23,1802,1,0,0.54,0.33
+14,Wilfred Ndidi,Leicester,2021,26,2181,1,4,0.6,1.33
+15,Luke Thomas,Leicester,2021,14,982,1,0,0.27,0.95
+16,Kasper Schmeichel,Leicester,2021,38,3420,0,0,0,0
+17,Wes Morgan,Leicester,2021,3,13,0,0,0,0
+18,Christian Fuchs,Leicester,2021,9,703,0,0,0.07,0.01
+19,Demarai Gray,Leicester,2021,1,17,0,0,0.06,0
+20,Islam Slimani,Leicester,2021,1,17,0,0,0.1,0.08
+21,Nampalys Mendy,Leicester,2021,23,1463,0,1,0.08,0.18
+22,Ricardo Pereira,Leicester,2021,15,954,0,1,0.36,0.76
+23,Cengiz Ünder,Leicester,2021,9,259,0,2,0.25,1.66
+24,Hamza Choudhury,Leicester,2021,10,312,0,0,0.45,0
+25,Wesley Fofana,Leicester,2021,28,2274,0,0,1.38,0.28
+26,Thakgalo Leshabela,Leicester,2021,1,8,0,0,0,0
+27,Sidnei Tavares,Leicester,2021,2,84,0,0,0.02,0
+1,Michail Antonio,West Ham,2021,26,1993,10,5,14.14,3.19
+2,Tomas Soucek,West Ham,2021,38,3420,10,1,8.98,2.44
+3,Jesse Lingard,West Ham,2021,16,1434,9,4,5.25,2.33
+4,Jarrod Bowen,West Ham,2021,38,2599,8,5,7.99,5.23
+5,Pablo Fornals,West Ham,2021,33,2603,5,4,6.75,2.53
+6,Angelo Ogbonna,West Ham,2021,28,2493,3,0,1.7,0.43
+7,Craig Dawson,West Ham,2021,22,1925,3,0,2.74,0.05
+8,Sébastien Haller,West Ham,2021,16,933,3,0,2.55,1.13
+9,Issa Diop,West Ham,2021,18,1379,2,0,0.95,0.02
+10,Declan Rice,West Ham,2021,32,2880,2,1,3.19,1.98
+11,Manuel Lanzini,West Ham,2021,17,548,1,1,0.97,1
+12,Said Benrahma,West Ham,2021,30,1381,1,6,2.46,5.11
+13,Ben Johnson,West Ham,2021,14,506,1,0,0.48,0.39
+14,Ryan Fredericks,West Ham,2021,14,563,1,1,0.21,1.3
+15,Fabián Balbuena,West Ham,2021,14,1197,1,0,1.1,0
+16,Mark Noble,West Ham,2021,21,702,0,0,0.05,0.18
+17,Aaron Cresswell,West Ham,2021,36,3176,0,8,0.88,7.39
+18,Darren Randolph,West Ham,2021,3,270,0,0,0,0
+19,Lukasz Fabianski,West Ham,2021,35,3150,0,0,0,0
+20,Felipe Anderson,West Ham,2021,2,2,0,0,0,0
+21,Robert Snodgrass,West Ham,2021,3,3,0,0,0,0
+22,Arthur Masuaku,West Ham,2021,12,1017,0,2,0.43,2.6
+23,Andriy Yarmolenko,West Ham,2021,15,343,0,1,0.31,0.78
+24,Vladimir Coufal,West Ham,2021,34,3056,0,7,1.4,6.39
+1,Harry Kane,Tottenham,2021,35,3097,23,14,22.17,7.58
+2,Son Heung-Min,Tottenham,2021,37,3139,17,10,11.02,9.51
+3,Gareth Bale,Tottenham,2021,20,909,11,2,5.8,1.84
+4,Lucas Moura,Tottenham,2021,30,1392,3,4,1.95,2.06
+5,Tanguy NDombele Alvaro,Tottenham,2021,33,2141,3,2,1.53,2.13
+6,Pierre-Emile Højbjerg,Tottenham,2021,38,3420,2,4,1.14,1.76
+7,Serge Aurier,Tottenham,2021,19,1619,2,3,1.48,3.72
+8,Toby Alderweireld,Tottenham,2021,25,2243,1,0,0.61,0.97
+9,Erik Lamela,Tottenham,2021,23,683,1,0,1.29,0.81
+10,Giovani Lo Celso,Tottenham,2021,18,955,1,1,1.53,1.2
+11,Carlos Vinicius,Tottenham,2021,9,300,1,0,1.25,0.1
+12,Steven Bergwijn,Tottenham,2021,21,1218,1,3,2.09,0.81
+13,Hugo Lloris,Tottenham,2021,38,3420,0,0,0,0
+14,Eric Dier,Tottenham,2021,28,2520,0,0,1.25,0.23
+15,Dele Alli,Tottenham,2021,15,615,0,1,1.67,1.33
+16,Ben Davies,Tottenham,2021,20,1330,0,1,0.2,0.44
+17,Moussa Sissoko,Tottenham,2021,25,1563,0,0,0.25,0.18
+18,Harry Winks,Tottenham,2021,15,854,0,0,0.06,0.19
+19,Davinson Sánchez,Tottenham,2021,18,1488,0,0,0.8,0.02
+20,Joe Rodon,Tottenham,2021,12,730,0,0,0.02,0
+21,Matt Doherty,Tottenham,2021,17,1228,0,2,0.36,0.78
+22,Sergio Reguilón,Tottenham,2021,27,2258,0,3,1.16,2.1
+23,Japhet Tanganga,Tottenham,2021,6,496,0,0,0.2,0.58
+24,Dane Scarlett,Tottenham,2021,1,1,0,0,0,0
+1,Patrick Bamford,Leeds United,2021,38,3085,17,7,18.4,3.78
+2,Stuart Dallas,Leeds United,2021,38,3412,8,2,4.46,2.08
+3,Jack Harrison,Leeds United,2021,36,2871,8,8,6.25,7.52
+4,Rodrigo,Leeds United,2021,26,1285,7,2,5.76,3.2
+5,Raphinha,Leeds United,2021,30,2369,6,9,6.22,9.52
+6,Mateusz Klich,Leeds United,2021,35,2404,4,5,3,3.65
+7,Hélder Costa,Leeds United,2021,22,1152,3,3,2.6,0.63
+8,Ezgjan Alioski,Leeds United,2021,36,2475,2,3,1.75,3.33
+9,Tyler Roberts,Leeds United,2021,27,1334,1,2,1.89,2.53
+10,Diego Llorente,Leeds United,2021,15,1208,1,0,0.91,0.46
+11,Pascal Struijk,Leeds United,2021,27,2073,1,0,2.03,0.11
+12,Kalvin Phillips,Leeds United,2021,29,2435,1,2,0.39,3.23
+13,Liam Cooper,Leeds United,2021,25,2189,1,0,2.09,0
+14,Pablo Hernández,Leeds United,2021,16,403,0,2,1.42,0.86
+15,Kiko Casilla,Leeds United,2021,3,270,0,0,0,0
+16,Robin Koch,Leeds United,2021,17,1124,0,0,0.51,0.13
+17,Illan Meslier,Leeds United,2021,35,3150,0,0,0,0.04
+18,Luke Ayling,Leeds United,2021,38,3400,0,0,1.44,2.99
+19,Jamie Shackleton,Leeds United,2021,13,446,0,0,0,0.12
+20,Ian Poveda-Ocampo,Leeds United,2021,14,322,0,0,0.66,1.26
+21,Leif Davis,Leeds United,2021,2,28,0,0,0,0
+22,Niall Huggins,Leeds United,2021,1,35,0,0,0,0
+23,Gaetano Berardi,Leeds United,2021,2,113,0,0,0.07,0
+1,Dominic Calvert-Lewin,Everton,2021,33,2878,16,0,18.21,2.1
+2,Richarlison,Everton,2021,34,2883,7,3,10.67,3.39
+3,Gylfi Sigurdsson,Everton,2021,36,2250,6,5,6.4,4.84
+4,James Rodríguez,Everton,2021,23,1802,6,4,3.36,5.44
+5,Michael Keane,Everton,2021,35,2986,3,1,1.5,1.09
+6,Abdoulaye Doucouré,Everton,2021,29,2468,2,3,2.37,2.39
+7,Yerry Mina,Everton,2021,24,1941,2,0,1.75,0.02
+8,Alex Iwobi,Everton,2021,30,1536,1,2,0.84,2.16
+9,Mason Holgate,Everton,2021,28,2298,1,0,1.3,0.57
+10,Bernard,Everton,2021,12,438,1,0,0.19,0.53
+11,Joshua King,Everton,2021,11,119,0,0,0.79,0
+12,Theo Walcott,Everton,2021,1,10,0,0,0,0
+13,Seamus Coleman,Everton,2021,25,1612,0,3,0.89,1.51
+14,Jordan Pickford,Everton,2021,31,2742,0,0,0,0.02
+15,Fabian Delph,Everton,2021,8,249,0,0,0.01,0.05
+16,Tom Davies,Everton,2021,25,1433,0,1,0.18,0.96
+17,Jonjoe Kenny,Everton,2021,4,81,0,0,0,0
+18,Moise Kean,Everton,2021,2,10,0,0,0.02,0
+19,Allan,Everton,2021,24,2051,0,0,0.24,0.77
+20,Lucas Digne,Everton,2021,30,2683,0,7,0.46,5.96
+21,André Gomes,Everton,2021,28,1574,0,1,0.43,1.05
+22,Jean-Philippe Gbamin,Everton,2021,1,9,0,0,0,0
+23,Cenk Tosun,Everton,2021,5,37,0,0,0,0.07
+24,Robin Olsen,Everton,2021,7,630,0,0,0,0
+25,Ben Godfrey,Everton,2021,31,2682,0,2,0.79,0.98
+26,Niels Nkounkou,Everton,2021,2,80,0,0,0.02,0
+27,Anthony Gordon,Everton,2021,3,87,0,0,0,0.02
+28,João Virgínia,Everton,2021,1,48,0,0,0,0
+29,Nathan Broadhead,Everton,2021,1,1,0,0,0,0
+1,Ollie Watkins,Aston Villa,2021,37,3330,14,5,16.28,5.31
+2,Anwar El Ghazi,Aston Villa,2021,28,1612,10,0,9.04,1.88
+3,Bertrand Traoré,Aston Villa,2021,36,2362,7,6,6.3,4.57
+4,Jack Grealish,Aston Villa,2021,26,2187,6,10,5.19,9.33
+5,Ross Barkley,Aston Villa,2021,24,1539,3,1,3.68,4.2
+6,John McGinn,Aston Villa,2021,37,3330,3,5,2.17,3.5
+7,Tyrone Mings,Aston Villa,2021,36,3194,2,2,2.06,0.38
+8,Trézéguet,Aston Villa,2021,21,1175,2,1,3.98,2.15
+9,Ezri Konsa Ngoyo,Aston Villa,2021,36,3192,2,0,3.29,0.09
+10,Keinan Davis,Aston Villa,2021,15,240,1,1,1.27,0.68
+11,Kortney Hause,Aston Villa,2021,7,630,1,0,1.3,0
+12,Conor Hourihane,Aston Villa,2021,4,236,1,1,0.57,0.92
+13,Neil Taylor,Aston Villa,2021,1,13,0,0,0,0
+14,Matt Targett,Aston Villa,2021,38,3407,0,2,0.28,2.8
+15,Ahmed Elmohamady,Aston Villa,2021,14,823,0,0,0.34,0.99
+16,Morgan Sanson,Aston Villa,2021,9,291,0,0,0.03,0.11
+17,Emiliano Martinez,Aston Villa,2021,38,3420,0,0,0,0.12
+18,Douglas Luiz,Aston Villa,2021,33,2807,0,2,1.32,2.42
+19,Wesley,Aston Villa,2021,3,14,0,0,0.03,0
+20,Marvelous Nakamba,Aston Villa,2021,13,757,0,0,0.03,0.06
+21,Matthew Cash,Aston Villa,2021,28,2389,0,2,0.25,1.91
+22,Jacob Ramsey,Aston Villa,2021,22,593,0,0,0.57,0.21
+23,Carney Chukwuemeka,Aston Villa,2021,2,16,0,0,0.06,0
+24,Jaden Philogene-Bidace,Aston Villa,2021,1,1,0,0,0,0
+1,Callum Wilson,Newcastle,2021,26,2079,12,5,13.59,3.05
+2,Joe Willock,Newcastle,2021,14,986,8,0,4.85,0.67
+3,Joelinton,Newcastle,2021,31,2006,4,2,5.63,2.37
+4,Miguel Almirón,Newcastle,2021,34,2458,4,1,3.51,3.14
+5,Allan Saint-Maximin,Newcastle,2021,25,1578,3,4,2.83,4.01
+6,Jamaal Lascelles,Newcastle,2021,19,1633,2,0,0.77,0.07
+7,Jeff Hendrick,Newcastle,2021,22,1436,2,1,1.11,1.43
+8,Jacob Murphy,Newcastle,2021,26,1611,2,3,1.49,3.43
+9,Fabian Schär,Newcastle,2021,18,1252,1,0,1.46,0
+10,Andy Carroll,Newcastle,2021,18,369,1,0,0.6,0.06
+11,Dwight Gayle,Newcastle,2021,18,483,1,1,2.93,0.28
+12,Jonjo Shelvey,Newcastle,2021,30,2617,1,3,2.45,2.63
+13,Paul Dummett,Newcastle,2021,15,1254,1,0,0.44,0.23
+14,Ciaran Clark,Newcastle,2021,22,1895,1,0,0.66,0.14
+15,Emil Krafth,Newcastle,2021,16,1297,1,0,0.15,0.43
+16,Matt Ritchie,Newcastle,2021,18,1360,0,2,0.33,2.49
+17,Federico Fernández,Newcastle,2021,24,2090,0,0,0.19,0.57
+18,DeAndre Yedlin,Newcastle,2021,6,442,0,0,0.1,0.08
+19,Karl Darlow,Newcastle,2021,25,2250,0,0,0,0
+20,Ryan Fraser,Newcastle,2021,18,920,0,2,0.9,2.17
+21,Javier Manquillo,Newcastle,2021,13,823,0,0,0.02,0.3
+22,Isaac Hayden,Newcastle,2021,24,1946,0,0,0.61,0.24
+23,Martin Dubravka,Newcastle,2021,13,1170,0,0,0,0
+24,Sean Longstaff,Newcastle,2021,22,1391,0,1,0.83,0.94
+25,Jamal Lewis,Newcastle,2021,24,1824,0,1,0.12,0.99
+26,Matthew Longstaff,Newcastle,2021,5,376,0,0,0,0.31
+27,Elliot Anderson,Newcastle,2021,1,3,0,0,0,0
+1,Pedro Neto,Wolverhampton,2021,31,2570,5,6,5.49,5.74
+2,Rúben Neves,Wolverhampton,2021,36,2681,5,1,4.74,2.06
+3,Raúl Jiménez,Wolverhampton,2021,10,824,4,0,2.36,0.63
+4,Fabio Silva,Wolverhampton,2021,32,1341,4,3,6.14,1.17
+5,Romain Saiss,Wolverhampton,2021,27,2409,3,0,3.17,0.67
+6,Daniel Podence,Wolverhampton,2021,24,1718,3,2,2.74,1.84
+7,Adama Traoré,Wolverhampton,2021,37,2630,2,2,2.08,5.27
+8,Willian José,Wolverhampton,2021,17,1123,1,0,1.43,1.27
+9,João Moutinho,Wolverhampton,2021,33,2546,1,1,0.5,1.68
+10,Nélson Semedo,Wolverhampton,2021,34,2994,1,1,1.31,0.9
+11,Rayan Ait Nouri,Wolverhampton,2021,21,1414,1,1,0.51,0.79
+12,Willy Boly,Wolverhampton,2021,21,1880,1,1,1.13,0.55
+13,Conor Coady,Wolverhampton,2021,37,3305,1,0,1.45,0.2
+14,Morgan Gibbs-White,Wolverhampton,2021,11,395,1,0,0.81,0.41
+15,Leander Dendoncker,Wolverhampton,2021,33,2500,1,0,3.38,0.58
+16,John Ruddy,Wolverhampton,2021,2,91,0,0,0,0
+17,Jonny,Wolverhampton,2021,7,505,0,0,0.05,0.05
+18,Patrick Cutrone,Wolverhampton,2021,2,21,0,0,0.07,0
+19,Fernando Marçal,Wolverhampton,2021,13,611,0,0,0.07,0.14
+20,Rui Patrício,Wolverhampton,2021,37,3330,0,0,0,0
+21,Rúben Vinagre,Wolverhampton,2021,2,173,0,0,0,0
+22,Max Kilman,Wolverhampton,2021,18,1291,0,1,0.31,0.31
+23,Owen Otasowie,Wolverhampton,2021,6,186,0,1,0.75,0.39
+24,Oskar Buur,Wolverhampton,2021,1,20,0,0,0,0
+25,Ki-Jana Hoever,Wolverhampton,2021,12,568,0,0,0.06,0.18
+26,Vitinha,Wolverhampton,2021,19,500,0,1,0.66,0.72
+27,Theo Corbeanu,Wolverhampton,2021,1,7,0,0,0,0.02
+1,Wilfried Zaha,Crystal Palace,2021,30,2615,11,2,8.8,3.7
+2,Christian Benteke,Crystal Palace,2021,30,1824,10,1,7.46,0.7
+3,Eberechi Eze,Crystal Palace,2021,34,2570,4,6,2.49,3.74
+4,Jeffrey Schlupp,Crystal Palace,2021,27,1424,2,3,2.02,2.57
+5,Michy Batshuayi,Crystal Palace,2021,18,706,2,1,1.36,1.65
+6,Jairo Riedewald,Crystal Palace,2021,33,1803,2,0,0.56,0.9
+7,Scott Dann,Crystal Palace,2021,15,1350,1,0,0.55,0.02
+8,Cheikhou Kouyaté,Crystal Palace,2021,36,3126,1,0,0.82,0.83
+9,Jordan Ayew,Crystal Palace,2021,33,2097,1,3,2.58,0.82
+10,Gary Cahill,Crystal Palace,2021,20,1800,1,1,0.74,0.62
+11,Andros Townsend,Crystal Palace,2021,34,2255,1,5,2.74,4.15
+12,Luka Milivojevic,Crystal Palace,2021,31,2374,1,1,2.21,1.77
+13,Jean-Philippe Mateta,Crystal Palace,2021,7,213,1,0,0.33,0.02
+14,Tyrick Mitchell,Crystal Palace,2021,19,1710,1,1,1.08,0.23
+15,Mamadou Sakho,Crystal Palace,2021,4,274,0,0,0.02,0
+16,Joel Ward,Crystal Palace,2021,26,2252,0,1,0.05,0.47
+17,Martin Kelly,Crystal Palace,2021,1,1,0,0,0,0
+18,James Tomkins,Crystal Palace,2021,8,553,0,0,0.12,0.11
+19,James McCarthy,Crystal Palace,2021,16,834,0,0,0.01,0.29
+20,Nathaniel Clyne,Crystal Palace,2021,13,1151,0,1,0.12,0.22
+21,James McArthur,Crystal Palace,2021,18,1482,0,2,0.28,1.52
+22,Patrick van Aanholt,Crystal Palace,2021,22,1775,0,1,1.4,0.65
+23,Jack Butland,Crystal Palace,2021,1,90,0,0,0,0
+24,Vicente Guaita,Crystal Palace,2021,37,3330,0,0,0,0
+1,Danny Ings,Southampton,2021,29,2200,12,4,8.28,2.31
+2,Che Adams,Southampton,2021,36,2685,9,5,12.12,5.23
+3,James Ward-Prowse,Southampton,2021,38,3420,8,7,5.44,4.07
+4,Stuart Armstrong,Southampton,2021,33,2791,4,5,2.64,2.9
+5,Jannik Vestergaard,Southampton,2021,30,2571,3,0,2.11,0.74
+6,Theo Walcott,Southampton,2021,21,1650,3,3,2.28,1.26
+7,Nathan Redmond,Southampton,2021,29,1718,2,3,3.83,3.35
+8,Takumi Minamino,Southampton,2021,10,728,2,0,1.66,0.81
+9,Oriol Romeu,Southampton,2021,21,1777,1,1,0.45,1.54
+10,Jan Bednarek,Southampton,2021,36,3111,1,1,0.47,1.16
+11,Moussa Djenepo,Southampton,2021,27,1236,1,0,0.79,0.4
+12,Nathan Tella,Southampton,2021,18,734,1,1,1.99,1.09
+13,Alex McCarthy,Southampton,2021,30,2700,0,0,0,0
+14,Fraser Forster,Southampton,2021,8,720,0,0,0,0
+15,Ryan Bertrand,Southampton,2021,29,2600,0,1,0.37,1.4
+16,Shane Long,Southampton,2021,11,184,0,0,0.06,0
+17,Kyle Walker-Peters,Southampton,2021,30,2655,0,2,1.14,1.25
+18,Jack Stephens,Southampton,2021,18,1544,0,0,0.89,0.46
+19,Michael Obafemi,Southampton,2021,4,52,0,0,0,0.05
+20,Ibrahima Diallo,Southampton,2021,22,999,0,0,0.61,0.64
+21,Mohammed Salisu,Southampton,2021,12,836,0,0,0.48,0.17
+22,Yan Valery,Southampton,2021,3,95,0,0,0.29,0.09
+23,Kayne Ramsay,Southampton,2021,1,90,0,0,0,0
+24,Daniel N'Lundulu,Southampton,2021,13,82,0,0,0.03,0.03
+25,William Smallbone,Southampton,2021,3,174,0,0,0.05,0
+26,Jake Vokins,Southampton,2021,1,69,0,0,0,0.04
+27,Alexandre Jankewitz,Southampton,2021,2,2,0,0,0,0
+28,Caleb Watts,Southampton,2021,3,30,0,0,0,0
+29,Allan Tchaptchet,Southampton,2021,1,10,0,0,0,0
+1,Neal Maupay,Brighton,2021,33,2526,8,2,13.77,4.28
+2,Danny Welbeck,Brighton,2021,24,1551,6,1,7.38,3.23
+3,Lewis Dunk,Brighton,2021,33,2934,5,0,2.71,0.83
+4,Leandro Trossard,Brighton,2021,35,2647,5,5,5.41,5.4
+5,Pascal Groß,Brighton,2021,34,2469,3,8,5.01,5.37
+6,Solly March,Brighton,2021,21,1684,2,1,1.78,1.68
+7,Aaron Connolly,Brighton,2021,17,799,2,1,4.46,0.16
+8,Adam Lallana,Brighton,2021,30,1572,1,1,1.61,2.63
+9,Yves Bissouma,Brighton,2021,36,3121,1,0,1.08,1.08
+10,Dan Burn,Brighton,2021,27,2059,1,0,1.08,0.98
+11,Adam Webster,Brighton,2021,29,2596,1,0,1.27,0.25
+12,Steven Alzate,Brighton,2021,15,905,1,0,0.83,0.92
+13,Tariq Lamptey,Brighton,2021,11,904,1,1,0.7,0.81
+14,Alexis Mac Allister,Brighton,2021,21,1110,1,1,1.35,1.87
+15,Joël Veltman,Brighton,2021,28,2281,1,1,1.28,1.85
+16,Mat Ryan,Brighton,2021,11,990,0,0,0,0
+17,Bernardo,Brighton,2021,3,201,0,0,0.32,0.17
+18,Davy Pröpper,Brighton,2021,7,201,0,0,0.14,0
+19,José Izquierdo,Brighton,2021,1,7,0,0,0.02,0
+20,Jayson Molumby,Brighton,2021,1,1,0,0,0,0
+21,Alireza Jahanbakhsh,Brighton,2021,21,512,0,1,1.87,3.23
+22,Ben White,Brighton,2021,36,3208,0,0,0.48,0.94
+23,Robert Sánchez,Brighton,2021,27,2430,0,0,0,0.03
+24,Andi Zeqiri,Brighton,2021,9,138,0,0,1.03,0.11
+25,Percy Tau,Brighton,2021,3,100,0,1,0,0.37
+26,Reda Khadra,Brighton,2021,1,3,0,0,0,0
+27,Jakub Moder,Brighton,2021,12,643,0,0,0.92,0.21
+1,Chris Wood,Burnley,2021,33,2765,12,3,12.95,2.04
+2,Ashley Westwood,Burnley,2021,38,3412,3,3,1.01,6.53
+3,Matej Vydra,Burnley,2021,28,1363,3,2,5.37,2.12
+4,Ashley Barnes,Burnley,2021,22,1342,3,0,3.87,0.8
+5,Ben Mee,Burnley,2021,30,2695,2,0,1.62,0.81
+6,Johann Berg Gudmundsson,Burnley,2021,22,1369,2,0,1.53,0.96
+7,Dwight McNeil,Burnley,2021,36,3075,2,5,1.08,5.48
+8,Robbie Brady,Burnley,2021,19,1061,1,1,0.78,0.91
+9,Jay Rodriguez,Burnley,2021,31,1237,1,2,2.98,1.21
+10,Matthew Lowton,Burnley,2021,34,3060,1,1,0.76,2.77
+11,James Tarkowski,Burnley,2021,36,3240,1,0,3.06,0.94
+12,Jimmy Dunne,Burnley,2021,3,270,1,0,0.42,0.1
+13,Jack Cork,Burnley,2021,16,1355,0,0,0.2,0.33
+14,Phil Bardsley,Burnley,2021,4,272,0,0,0.06,0
+15,Erik Pieters,Burnley,2021,20,1259,0,1,0.15,0.36
+16,Kevin Long,Burnley,2021,8,635,0,0,0.61,0.02
+17,Nick Pope,Burnley,2021,32,2880,0,0,0,0.09
+18,Charlie Taylor,Burnley,2021,29,2430,0,1,0.11,1.59
+19,Dale Stephens,Burnley,2021,7,258,0,0,0.08,0
+20,Josh Benson,Burnley,2021,6,257,0,0,0.2,0
+21,Will Norris,Burnley,2021,2,180,0,0,0,0.05
+22,Josh Brownhill,Burnley,2021,33,2818,0,1,1.52,0.88
+23,Bailey Peacock-Farrell,Burnley,2021,4,360,0,0,0,0
+24,Joel Mumbongo,Burnley,2021,4,33,0,0,0,0
+25,Lewis Richardson,Burnley,2021,2,2,0,0,0,0
+1,Bobby Reid,Fulham,2021,33,2394,5,2,4.27,1.31
+2,Ademola Lookman,Fulham,2021,34,2765,4,4,6.25,5.26
+3,Aleksandar Mitrovic,Fulham,2021,27,1369,3,3,5.68,2.92
+4,Ivan Cavaleiro,Fulham,2021,36,2477,3,0,5.55,2.68
+5,Josh Maja,Fulham,2021,15,809,3,0,4.92,0.74
+6,Ola Aina,Fulham,2021,31,2683,2,1,0.85,1.55
+7,Ruben Loftus-Cheek,Fulham,2021,30,1923,1,0,3.33,1.24
+8,Mario Lemina,Fulham,2021,28,1706,1,0,1.24,1.13
+9,Joachim Andersen,Fulham,2021,31,2732,1,1,1.36,0.45
+10,Joe Bryan,Fulham,2021,16,658,1,0,0.58,0.27
+11,Tom Cairney,Fulham,2021,10,762,1,1,0.58,0.99
+12,Fabio Carvalho,Fulham,2021,4,255,1,0,1,0.5
+13,Josh Onomah,Fulham,2021,11,368,0,0,0.56,0.03
+14,Harrison Reed,Fulham,2021,31,2254,0,2,0.29,1.69
+15,Alphonse Areola,Fulham,2021,36,3240,0,0,0,0
+16,Maxime Le Marchand,Fulham,2021,2,118,0,0,0.01,0
+17,Aboubakar Kamara,Fulham,2021,11,303,0,0,0.65,0.33
+18,Michael Hector,Fulham,2021,4,266,0,0,0.09,0.02
+19,Tosin Adarabioyo,Fulham,2021,33,2955,0,0,1.56,0.31
+20,Kenny Tete,Fulham,2021,22,1483,0,1,0.21,0.91
+21,Terence Kongolo,Fulham,2021,1,90,0,0,0,0
+22,Franck Zambo,Fulham,2021,36,2582,0,3,1.44,2.3
+23,Neeskens Kebano,Fulham,2021,5,112,0,0,0.27,0
+24,Denis Odoi,Fulham,2021,3,270,0,0,0.04,0.05
+25,Tim Ream,Fulham,2021,7,630,0,0,0,0
+26,Marek Rodák,Fulham,2021,2,180,0,0,0,0
+27,Antonee Robinson,Fulham,2021,28,2158,0,0,0.47,2.03
+28,Tyrese Francois,Fulham,2021,1,13,0,0,0,0
+1,Matheus Pereira,West Brom,2021,33,2594,11,6,6.95,6.36
+2,Callum Robinson,West Brom,2021,28,1580,5,0,3.2,1.05
+3,Kyle Bartley,West Brom,2021,30,2581,3,1,2.6,0.76
+4,Mbaye Diagne,West Brom,2021,16,1205,3,2,6.25,0.99
+5,Matt Phillips,West Brom,2021,33,1823,2,1,2.92,3.25
+6,Hal Robson-Kanu,West Brom,2021,19,522,2,0,1.5,0.24
+7,Semi Ajayi,West Brom,2021,33,2773,2,0,1.73,0.51
+8,Conor Gallagher,West Brom,2021,30,2529,2,2,1.54,1.42
+9,Darnell Furlong,West Brom,2021,35,2926,1,3,1.93,2.46
+10,Grady Diangana,West Brom,2021,20,1249,1,0,1.1,0.16
+11,Karlan Grant,West Brom,2021,21,1140,1,0,1.69,0.15
+12,Kieran Gibbs,West Brom,2021,10,808,0,0,0.06,0.41
+13,Branislav Ivanovic,West Brom,2021,13,761,0,0,0.46,0.05
+14,Charlie Austin,West Brom,2021,5,126,0,0,0.41,0
+15,Sam Johnstone,West Brom,2021,37,3330,0,1,0,0.11
+16,Sam Field,West Brom,2021,3,56,0,0,0,0
+17,Jake Livermore,West Brom,2021,18,1247,0,0,0.28,0.18
+18,Robert Snodgrass,West Brom,2021,8,530,0,0,0.21,0.54
+19,Ainsley Maitland-Niles,West Brom,2021,15,1236,0,0,0.69,0.74
+20,Kamil Grosicki,West Brom,2021,3,151,0,1,0.11,0.57
+21,Ahmed Hegazy,West Brom,2021,1,90,0,0,0,0
+22,Rekeem Harper,West Brom,2021,2,27,0,0,0.03,0
+23,Lee Peltier,West Brom,2021,4,230,0,0,0,0.02
+24,David Button,West Brom,2021,1,90,0,0,0,0
+25,Okay Yokuslu,West Brom,2021,16,1328,0,1,0.72,0.44
+26,Dara O'Shea,West Brom,2021,28,2098,0,0,0.06,0.12
+27,Romaine Sawyers,West Brom,2021,19,1495,0,0,0.15,0.68
+28,Kyle Edwards,West Brom,2021,5,110,0,0,0.12,0.02
+29,Conor Townsend,West Brom,2021,25,2237,0,2,0.82,2.65
+30,Filip Krovinovic,West Brom,2021,11,537,0,0,0.22,0.17
+1,David McGoldrick,Sheffield United,2021,35,2409,8,1,7.61,1.12
+2,Billy Sharp,Sheffield United,2021,16,723,3,0,2.98,0.58
+3,Jayden Bogle,Sheffield United,2021,16,1109,2,0,1.92,0.21
+4,Oliver McBurnie,Sheffield United,2021,23,1306,1,0,3.55,1.05
+5,Oliver Burke,Sheffield United,2021,25,1272,1,1,2.6,2.62
+6,Ben Osborn,Sheffield United,2021,24,1607,1,0,1.09,2.52
+7,Sander Berge,Sheffield United,2021,15,1116,1,1,1.22,1.78
+8,Kean Bryan,Sheffield United,2021,13,1012,1,0,0.54,0.82
+9,Daniel Jebbison,Sheffield United,2021,4,286,1,0,1.48,0.02
+10,Phil Jagielka,Sheffield United,2021,10,526,0,0,0,0
+11,Lys Mousset,Sheffield United,2021,11,284,0,0,0.84,0.44
+12,Rhian Brewster,Sheffield United,2021,27,1102,0,0,1.93,1.77
+13,Aaron Ramsdale,Sheffield United,2021,38,3420,0,0,0,0.08
+14,Ethan Ampadu,Sheffield United,2021,25,2095,0,0,0.19,0.98
+15,John Egan,Sheffield United,2021,31,2628,0,1,0.49,0.62
+16,Chris Basham,Sheffield United,2021,31,2602,0,1,0.62,1.07
+17,Jack O'Connell,Sheffield United,2021,2,180,0,0,0,0
+18,George Baldock,Sheffield United,2021,32,2787,0,2,1.33,2.63
+19,Enda Stevens,Sheffield United,2021,30,2700,0,1,1.45,1.61
+20,John Lundstram,Sheffield United,2021,28,2034,0,2,1.88,1.46
+21,John Fleck,Sheffield United,2021,31,2576,0,2,0.5,2.39
+22,Oliver Norwood,Sheffield United,2021,32,2239,0,0,0.43,1.37
+23,Jack Robinson,Sheffield United,2021,11,879,0,1,0.7,0.67
+24,Max Lowe,Sheffield United,2021,8,554,0,0,0.09,0.19
+25,Antwoine Hackford,Sheffield United,2021,1,4,0,0,0.1,0
+26,Iliman Ndiaye,Sheffield United,2021,1,10,0,0,0,0
+27,Femi Seriki,Sheffield United,2021,1,1,0,0,0,0
+1,Bukayo Saka,Arsenal,2022,38,3034,11,7,9.91,7.63
+2,Emile Smith-Rowe,Arsenal,2022,33,1928,10,2,5.36,3.03
+3,Martin Odegaard,Arsenal,2022,36,2803,7,4,4.22,6.6
+4,Gabriel Martinelli,Arsenal,2022,29,1877,6,6,8.86,4.08
+5,Gabriel,Arsenal,2022,35,3075,5,0,3.54,0.25
+6,Eddie Nketiah,Arsenal,2022,21,803,5,1,4.99,1.67
+7,Pierre-Emerick Aubameyang,Arsenal,2022,14,1047,4,1,6.89,0.8
+8,Alexandre Lacazette,Arsenal,2022,30,1800,4,7,7.63,3.26
+9,Thomas Partey,Arsenal,2022,24,2045,2,1,3.02,0.87
+10,Granit Xhaka,Arsenal,2022,27,2338,1,2,1.11,2.42
+11,Cédric Soares,Arsenal,2022,21,1483,1,1,0.49,1.52
+12,Rob Holding,Arsenal,2022,15,824,1,0,0.56,0
+13,Nicolas Pepe,Arsenal,2022,20,646,1,2,3.45,1.33
+14,Kieran Tierney,Arsenal,2022,22,1926,1,3,0.61,1.25
+15,Nuno Tavares,Arsenal,2022,22,1162,1,1,1.76,1.06
+16,Bernd Leno,Arsenal,2022,4,360,0,0,0,0
+17,Sead Kolasinac,Arsenal,2022,2,91,0,0,0,0
+18,Mohamed Elneny,Arsenal,2022,14,785,0,2,0.16,0.4
+19,Calum Chambers,Arsenal,2022,2,172,0,0,0.06,0.06
+20,Ainsley Maitland-Niles,Arsenal,2022,8,251,0,0,0.03,0.23
+21,Aaron Ramsdale,Arsenal,2022,34,3060,0,0,0,0
+22,Reiss Nelson,Arsenal,2022,1,18,0,0,0.04,0.06
+23,Ben White,Arsenal,2022,32,2880,0,0,0.69,1.19
+24,Takehiro Tomiyasu,Arsenal,2022,21,1688,0,1,0.39,1
+25,Pablo Marí,Arsenal,2022,2,180,0,0,0.03,0.43
+26,Albert Sambi Lokonga,Arsenal,2022,19,1125,0,0,0.59,0.84
+27,Folarin Balogun,Arsenal,2022,2,69,0,0,0.16,0
+28,Ollie Watkins,Aston Villa,2022,35,2970,11,2,11.5,3
+29,Danny Ings,Aston Villa,2022,30,1920,7,6,6.85,1.44
+30,Jacob Ramsey,Aston Villa,2022,34,2493,6,1,3.82,2.04
+31,Philippe Coutinho,Aston Villa,2022,19,1364,5,3,3.37,2.93
+32,Emiliano Buendía,Aston Villa,2022,35,1907,4,6,3.05,4.65
+33,Matthew Cash,Aston Villa,2022,38,3386,4,3,2.48,2.9
+34,John McGinn,Aston Villa,2022,35,3099,3,4,1.83,5.36
+35,Douglas Luiz,Aston Villa,2022,34,2733,2,3,2.22,2.44
+36,Ezri Konsa Ngoyo,Aston Villa,2022,29,2494,2,0,1.21,0.27
+37,Calum Chambers,Aston Villa,2022,11,829,1,0,0.2,0.12
+38,Matt Targett,Aston Villa,2022,17,1440,1,1,0.73,2.17
+39,Tyrone Mings,Aston Villa,2022,36,3186,1,3,1.38,1.43
+40,Leon Bailey,Aston Villa,2022,18,723,1,2,1.49,0.68
+41,Anwar El Ghazi,Aston Villa,2022,9,372,1,1,0.98,0.26
+42,Kortney Hause,Aston Villa,2022,7,393,1,0,0.06,0
+43,Ashley Young,Aston Villa,2022,24,1232,0,2,0.4,0.78
+44,Bertrand Traoré,Aston Villa,2022,9,199,0,0,0.26,0
+45,Axel Tuanzebe,Aston Villa,2022,9,507,0,0,0.15,0
+46,Keinan Davis,Aston Villa,2022,1,10,0,0,0,0
+47,Lucas Digne,Aston Villa,2022,16,1276,0,4,0.5,1.89
+48,Morgan Sanson,Aston Villa,2022,10,349,0,0,0.01,0.03
+49,Emiliano Martinez,Aston Villa,2022,36,3240,0,0,0,0
+50,Jed Steer,Aston Villa,2022,1,90,0,0,0,0
+51,Robin Olsen,Aston Villa,2022,1,90,0,0,0,0
+52,Trézéguet,Aston Villa,2022,1,8,0,0,0.05,0
+53,Wesley,Aston Villa,2022,1,1,0,0,0,0
+54,Marvelous Nakamba,Aston Villa,2022,16,905,0,0,0,0.05
+55,Carney Chukwuemeka,Aston Villa,2022,12,266,0,1,0.63,0.99
+56,Jaden Philogene-Bidace,Aston Villa,2022,1,1,0,0,0,0
+57,Tim Iroegbunam,Aston Villa,2022,3,91,0,0,0.1,0
+58,Cameron Archer,Aston Villa,2022,3,20,0,0,0.03,0
+59,Ivan Toney,Brentford,2022,33,2905,12,5,12.05,7.34
+60,Yoane Wissa,Brentford,2022,30,1230,7,1,3.4,0.67
+61,Bryan Mbeumo,Brentford,2022,35,2934,4,7,9.81,3.96
+62,Vitaly Janelt,Brentford,2022,31,2328,4,0,2.99,1.82
+63,Sergi Canos,Brentford,2022,31,2128,3,2,3.49,2.17
+64,Pontus Jansson,Brentford,2022,37,3325,3,1,4.59,0.56
+65,Christian Nørgaard,Brentford,2022,35,3068,3,4,4.97,4.05
+66,Rico Henry,Brentford,2022,34,2796,3,0,1.9,1.87
+67,Christian Eriksen,Brentford,2022,11,935,1,4,1.4,3.73
+68,Zanka,Brentford,2022,8,514,1,0,0.14,0.08
+69,Saman Ghoddos,Brentford,2022,17,499,1,1,0.71,1.19
+70,Kristoffer Ajer,Brentford,2022,24,2012,1,3,1.07,2.21
+71,Ethan Pinnock,Brentford,2022,32,2701,1,1,1.75,1.72
+72,Mads Roerslev,Brentford,2022,21,1240,1,1,0.28,0.97
+73,Shandon Baptiste,Brentford,2022,22,909,1,0,0.58,0.55
+74,Jonas Lössl,Brentford,2022,2,180,0,0,0,0
+75,Álvaro Fernández,Brentford,2022,12,1080,0,0,0,0
+76,Mathias Jensen,Brentford,2022,31,1598,0,1,2.7,3.16
+77,David Raya,Brentford,2022,24,2160,0,0,0,0.04
+78,Frank Onyeka,Brentford,2022,20,1056,0,0,0.77,0.16
+79,Mads Bidstrup,Brentford,2022,4,26,0,0,0,0
+80,Mads Bech Sørensen,Brentford,2022,11,841,0,0,0.07,0.34
+81,Marcus Forss,Brentford,2022,7,183,0,1,0.3,0.42
+82,Charlie Goode,Brentford,2022,6,446,0,0,0.09,1.04
+83,Dominic Thompson,Brentford,2022,2,154,0,0,0.03,0
+84,Finley Stevens,Brentford,2022,1,11,0,0,0,0.03
+85,Tariqe Fosu-Henry,Brentford,2022,1,15,0,0,0.05,0
+86,Nathan Young-Coombes,Brentford,2022,1,1,0,0,0,0
+87,Josh Dasilva,Brentford,2022,9,242,0,0,0.1,0.18
+88,Neal Maupay,Brighton,2022,32,2271,8,2,8.24,2.44
+89,Leandro Trossard,Brighton,2022,34,2830,8,3,7.96,5.28
+90,Danny Welbeck,Brighton,2022,25,1464,6,1,8.29,0.89
+91,Alexis Mac Allister,Brighton,2022,33,2102,5,2,6.83,2.13
+92,Pascal Groß,Brighton,2022,29,2044,2,4,2.87,5.79
+93,Adam Webster,Brighton,2022,22,1419,2,0,1.49,0.04
+94,Enock Mwepu,Brighton,2022,18,1009,2,4,2,1.58
+95,Yves Bissouma,Brighton,2022,26,2134,1,2,1.05,0.84
+96,Shane Duffy,Brighton,2022,18,1432,1,0,0.91,0.1
+97,Lewis Dunk,Brighton,2022,29,2574,1,0,1.49,0.41
+98,Marc Cucurella,Brighton,2022,35,3102,1,1,0.73,2.87
+99,Dan Burn,Brighton,2022,13,1025,1,0,0.96,0.7
+100,Joël Veltman,Brighton,2022,34,2895,1,1,0.71,1.59
+101,Moisés Caicedo,Brighton,2022,8,673,1,1,0.64,0.23
+102,Adam Lallana,Brighton,2022,24,1568,0,1,0.88,0.93
+103,Solly March,Brighton,2022,31,1723,0,2,1.45,2.99
+104,Jürgen Locadia,Brighton,2022,1,20,0,0,0.06,0
+105,Jason Steele,Brighton,2022,1,90,0,0,0,0
+106,Aaron Connolly,Brighton,2022,4,152,0,0,0.6,0.38
+107,Steven Alzate,Brighton,2022,9,410,0,0,0.08,0.15
+108,Tariq Lamptey,Brighton,2022,30,1543,0,2,0.99,2.86
+109,Robert Sánchez,Brighton,2022,37,3330,0,0,0,0.64
+110,Jakub Moder,Brighton,2022,28,1709,0,3,3.1,2.58
+111,Taylor Richards,Brighton,2022,2,17,0,0,0.02,0.01
+112,Jeremy Sarmiento,Brighton,2022,5,35,0,0,0,0
+113,Evan Ferguson,Brighton,2022,1,20,0,0,0,0
+114,Maxwel Cornet,Burnley,2022,26,1790,9,1,6.71,1.76
+115,Ben Mee,Burnley,2022,21,1839,3,0,2.56,1.27
+116,Chris Wood,Burnley,2022,17,1403,3,0,4.97,0.39
+117,Aaron Lennon,Burnley,2022,28,1538,2,0,1.04,0.43
+118,Jay Rodriguez,Burnley,2022,29,1356,2,2,4.86,1.9
+119,Matej Vydra,Burnley,2022,22,634,2,3,1.97,0.75
+120,Wout Weghorst,Burnley,2022,20,1459,2,3,5.4,1.85
+121,Josh Brownhill,Burnley,2022,35,2953,2,3,1.2,2.35
+122,Nathan Collins,Burnley,2022,19,1671,2,0,1.65,1.48
+123,Jack Cork,Burnley,2022,20,1689,1,0,0.73,0.19
+124,Matthew Lowton,Burnley,2022,25,1788,1,2,0.78,2.14
+125,James Tarkowski,Burnley,2022,35,3108,1,2,2.99,0.49
+126,Ashley Barnes,Burnley,2022,23,787,1,0,1.68,0.99
+127,Connor Roberts,Burnley,2022,21,1686,1,1,0.22,1.16
+128,Wayne Hennessey,Burnley,2022,2,180,0,0,0,0.15
+129,Ashley Westwood,Burnley,2022,27,2292,0,3,0.49,4.26
+130,Erik Pieters,Burnley,2022,12,722,0,1,0.15,0.76
+131,Johann Berg Gudmundsson,Burnley,2022,18,1110,0,1,1.69,0.65
+132,Kevin Long,Burnley,2022,6,406,0,0,0.14,0
+133,Nick Pope,Burnley,2022,36,3240,0,0,0,0.07
+134,Charlie Taylor,Burnley,2022,31,2729,0,3,0.19,3.42
+135,Dale Stephens,Burnley,2022,3,121,0,0,0.04,0.02
+136,Dwight McNeil,Burnley,2022,38,3130,0,1,2.44,5.01
+137,Mason Mount,Chelsea,2022,32,2367,11,10,8.52,7.21
+138,Romelu Lukaku,Chelsea,2022,26,1571,8,0,7.02,3.36
+139,Kai Havertz,Chelsea,2022,29,1829,8,3,10.67,2.57
+140,Jorginho,Chelsea,2022,29,2285,6,2,5.91,2.89
+141,Christian Pulisic,Chelsea,2022,22,1276,6,2,6.1,1.29
+142,Reece James,Chelsea,2022,26,1866,5,9,2.54,7.03
+143,Timo Werner,Chelsea,2022,21,1291,4,1,6.17,0.32
+144,Marcos Alonso,Chelsea,2022,28,2185,4,4,3.49,5.04
+145,Hakim Ziyech,Chelsea,2022,23,1304,4,3,3.04,3.93
+146,Ben Chilwell,Chelsea,2022,7,541,3,1,1.3,0.83
+147,Antonio Rüdiger,Chelsea,2022,34,3036,3,0,2.68,0.74
+148,Thiago Silva,Chelsea,2022,32,2638,3,0,1.07,0.25
+149,Trevoh Chalobah,Chelsea,2022,20,1459,3,1,1.18,0.27
+150,N'Golo Kanté,Chelsea,2022,26,1787,2,4,1.76,2.2
+151,Mateo Kovacic,Chelsea,2022,25,1541,2,5,1.69,4.12
+152,Ross Barkley,Chelsea,2022,6,169,1,0,1.36,0.66
+153,César Azpilicueta,Chelsea,2022,27,2084,1,2,1.26,2.08
+154,Callum Hudson-Odoi,Chelsea,2022,15,971,1,2,2.78,2.64
+155,Andreas Christensen,Chelsea,2022,19,1499,0,0,0.8,0.19
+156,Ruben Loftus-Cheek,Chelsea,2022,24,1378,0,2,0.94,2.56
+157,Kenedy,Chelsea,2022,1,59,0,1,0.05,0.75
+158,Emerson,Chelsea,2022,1,3,0,0,0,0
+159,Saúl Ñíguez,Chelsea,2022,10,477,0,0,0.14,0.19
+160,Kepa,Chelsea,2022,4,360,0,0,0,0
+161,Malang Sarr,Chelsea,2022,8,549,0,0,0.02,0.39
+162,Edouard Mendy,Chelsea,2022,34,3060,0,0,0,0
+163,Wilfried Zaha,Crystal Palace,2022,33,2762,14,1,10.18,4.89
+164,Conor Gallagher,Crystal Palace,2022,34,2863,8,3,7.67,4.14
+165,Odsonne Edouard,Crystal Palace,2022,28,1579,6,4,6.53,2.17
+166,Jean-Philippe Mateta,Crystal Palace,2022,22,1153,5,1,5.85,0.72
+167,Christian Benteke,Crystal Palace,2022,25,1112,4,1,4.72,1.67
+168,Jeffrey Schlupp,Crystal Palace,2022,32,1836,4,1,3.63,2.03
+169,Jordan Ayew,Crystal Palace,2022,31,2036,3,3,4.29,3.04
+170,Marc Guehi,Crystal Palace,2022,36,3227,2,1,2.49,1.2
+171,Michael Olise,Crystal Palace,2022,26,1125,2,5,1.49,4.96
+172,James Tomkins,Crystal Palace,2022,8,540,1,0,0.69,0.35
+173,Eberechi Eze,Crystal Palace,2022,13,597,1,1,0.46,0.97
+174,Joel Ward,Crystal Palace,2022,28,2487,0,0,0.34,0.33
+175,Cheikhou Kouyaté,Crystal Palace,2022,27,1991,0,1,0.22,0.7
+176,Nathaniel Clyne,Crystal Palace,2022,16,1351,0,1,0.07,0.32
+177,James McArthur,Crystal Palace,2022,21,1433,0,3,0.31,1.27
+178,Jack Butland,Crystal Palace,2022,9,761,0,0,0,0
+179,Vicente Guaita,Crystal Palace,2022,30,2659,0,0,0,0
+180,Luka Milivojevic,Crystal Palace,2022,15,776,0,0,0.29,0.64
+181,Jairo Riedewald,Crystal Palace,2022,3,112,0,0,0,0.05
+182,Will Hughes,Crystal Palace,2022,16,1071,0,1,0.14,0.96
+183,Joachim Andersen,Crystal Palace,2022,34,2917,0,3,0.48,1.38
+184,Nathan Ferguson,Crystal Palace,2022,1,6,0,0,0,0
+185,Tyrick Mitchell,Crystal Palace,2022,36,3100,0,2,0.22,1.91
+186,Jesurun Rak-Sakyi,Crystal Palace,2022,2,80,0,0,0,0
+187,Richarlison,Everton,2022,30,2532,10,5,10.01,4.38
+188,Demarai Gray,Everton,2022,34,2366,5,4,4.34,4.43
+189,Dominic Calvert-Lewin,Everton,2022,17,1297,5,2,6.22,1.66
+190,Anthony Gordon,Everton,2022,35,2288,4,2,3.46,3.78
+191,Andros Townsend,Everton,2022,21,1463,3,2,2.26,2.85
+192,Michael Keane,Everton,2022,32,2799,3,2,1.2,1.34
+193,Alex Iwobi,Everton,2022,28,2041,2,2,2.4,3.07
+194,Mason Holgate,Everton,2022,25,2137,2,1,1.66,0.1
+195,Abdoulaye Doucouré,Everton,2022,30,2540,2,4,2.65,2.42
+196,Seamus Coleman,Everton,2022,30,2663,1,0,1.17,0.8
+197,Salomón Rondón,Everton,2022,20,764,1,1,2.64,0.61
+198,Tom Davies,Everton,2022,6,228,1,0,1.01,0
+199,Jarrad Branthwaite,Everton,2022,6,384,1,0,0.6,0
+200,Donny van de Beek,Everton,2022,7,486,1,0,0.77,0.04
+201,Vitalii Mykolenko,Everton,2022,13,1059,1,0,0.55,0.5
+202,Dele Alli,Everton,2022,11,314,0,0,0.13,0.63
+203,Asmir Begovic,Everton,2022,3,270,0,0,0,0
+204,Jordan Pickford,Everton,2022,35,3150,0,0,0,0.14
+205,Fabian Delph,Everton,2022,11,663,0,0,0.04,0.08
+206,Jonjoe Kenny,Everton,2022,15,1014,0,1,0.16,0.58
+207,Moise Kean,Everton,2022,1,1,0,0,0,0
+208,Allan,Everton,2022,28,2196,0,2,0.24,0.65
+209,Lucas Digne,Everton,2022,13,1170,0,0,0.36,1.63
+210,André Gomes,Everton,2022,14,621,0,1,0.99,0.16
+211,Jean-Philippe Gbamin,Everton,2022,3,67,0,0,0,0
+212,Anwar El Ghazi,Everton,2022,2,8,0,0,0,0
+213,Cenk Tosun,Everton,2022,1,2,0,0,0,0
+214,Yerry Mina,Everton,2022,13,842,0,0,0.24,0.03
+215,Ben Godfrey,Everton,2022,23,2034,0,0,1.3,0.71
+216,Ellis Simms,Everton,2022,1,63,0,0,0,0
+217,Tyler Onyango,Everton,2022,3,23,0,0,0.03,0
+218,Isaac Price,Everton,2022,1,10,0,0,0.27,0
+219,Lewis Dobbin,Everton,2022,3,29,0,0,0,0
+220,Raphinha,Leeds United,2022,35,2940,11,3,10.23,6.94
+221,Jack Harrison,Leeds United,2022,35,2660,8,1,5.15,3.45
+222,Rodrigo,Leeds United,2022,31,2280,6,1,5.61,3.65
+223,Daniel James,Leeds United,2022,32,2386,4,4,7.45,3.75
+224,Diego Llorente,Leeds United,2022,28,2351,3,0,1.98,0.05
+225,Patrick Bamford,Leeds United,2022,9,558,2,2,3,1.03
+226,Luke Ayling,Leeds United,2022,26,2276,2,2,1.04,2.36
+227,Joe Gelhardt,Leeds United,2022,20,700,2,2,3.8,1.81
+228,Tyler Roberts,Leeds United,2022,23,938,1,1,2.43,1.47
+229,Mateusz Klich,Leeds United,2022,33,2117,1,2,2.7,1.91
+230,Pascal Struijk,Leeds United,2022,29,2052,1,0,2.3,0.43
+231,Stuart Dallas,Leeds United,2022,34,2929,1,1,1.84,3.38
+232,Adam Forshaw,Leeds United,2022,22,1524,0,1,0.48,1.04
+233,Hélder Costa,Leeds United,2022,1,20,0,0,0.02,0
+234,Robin Koch,Leeds United,2022,20,1573,0,0,1.09,0.28
+235,Júnior Firpo,Leeds United,2022,24,1735,0,2,0.94,2.52
+236,Lewis Bate,Leeds United,2022,3,152,0,0,0.02,0
+237,Illan Meslier,Leeds United,2022,38,3396,0,0,0,0
+238,Kalvin Phillips,Leeds United,2022,20,1598,0,1,0.77,1.16
+239,Jamie Shackleton,Leeds United,2022,14,692,0,0,0.17,0.01
+240,Liam Cooper,Leeds United,2022,21,1814,0,1,0.28,0.13
+241,Charlie Cresswell,Leeds United,2022,5,130,0,0,0.06,0
+242,Crysencio Summerville,Leeds United,2022,6,124,0,0,0.32,0.05
+243,Sam Greenwood,Leeds United,2022,7,222,0,2,0.23,0.43
+244,Cody Drameh,Leeds United,2022,3,122,0,0,0,0.02
+245,Kristoffer Klaesson,Leeds United,2022,1,24,0,0,0,0
+246,Liam McCarron,Leeds United,2022,1,6,0,0,0,0
+247,Stuart McKinstry,Leeds United,2022,1,1,0,0,0,0
+248,Leo Fuhr Hjelde,Leeds United,2022,2,150,0,0,0,0.02
+249,Jamie Vardy,Leicester,2022,25,1807,15,2,9.99,1.61
+250,James Maddison,Leicester,2022,35,2480,12,8,6.5,5.67
+251,Ademola Lookman,Leicester,2022,26,1470,6,0,4.78,1.81
+252,Youri Tielemans,Leicester,2022,32,2638,6,4,4.27,4.31
+253,Harvey Barnes,Leicester,2022,32,2108,6,10,6.22,4.48
+254,Patson Daka,Leicester,2022,23,1164,5,3,5.11,1.82
+255,Kelechi Iheanacho,Leicester,2022,26,1236,4,5,3.63,2.71
+256,Ayoze Pérez,Leicester,2022,14,443,2,3,2.06,1.23
+257,Marc Albrighton,Leicester,2022,17,1113,1,2,0.49,1.69
+258,Jonny Evans,Leicester,2022,18,1355,1,1,1.28,0.92
+259,Ricardo Pereira,Leicester,2022,14,1000,1,3,0.58,1.4
+260,Caglar Söyüncü,Leicester,2022,28,2500,1,0,1.01,0.09
+261,Timothy Castagne,Leicester,2022,27,2118,1,0,0.94,1.09
+262,Kiernan Dewsbury-Hall,Leicester,2022,28,2101,1,2,1.29,3.03
+263,Jannik Vestergaard,Leicester,2022,10,561,0,0,0.04,0.07
+264,Danny Ward,Leicester,2022,1,90,0,0,0,0
+265,Kasper Schmeichel,Leicester,2022,37,3330,0,0,0,0.02
+266,Daniel Amartey,Leicester,2022,28,2111,0,0,0.02,0.25
+267,Ryan Bertrand,Leicester,2022,4,340,0,0,0,0
+268,Nampalys Mendy,Leicester,2022,14,1041,0,0,0.02,0.03
+269,Wilfred Ndidi,Leicester,2022,19,1621,0,0,0.58,0.08
+270,Boubakary Soumare,Leicester,2022,19,1102,0,1,0.33,0.29
+271,Hamza Choudhury,Leicester,2022,6,289,0,0,0.02,0
+272,Wesley Fofana,Leicester,2022,7,630,0,0,0.57,0.04
+273,James Justin,Leicester,2022,13,993,0,0,0.53,0.85
+274,Luke Thomas,Leicester,2022,22,1915,0,1,0.18,1.42
+275,Kasey McAteer,Leicester,2022,1,1,0,0,0,0
+276,Lewis Brunt,Leicester,2022,1,22,0,0,0,0
+277,Mohamed Salah,Liverpool,2022,35,2757,23,13,24.36,9.79
+278,Sadio Mané,Liverpool,2022,34,2833,16,2,16.83,5.27
+279,Diogo Jota,Liverpool,2022,35,2401,15,4,17.35,5.87
+280,Roberto Firmino,Liverpool,2022,20,979,5,4,5.25,2.22
+281,Fabinho,Liverpool,2022,29,2320,5,1,5.03,1.26
+282,Luis Díaz,Liverpool,2022,13,962,4,3,4.28,2.18
+283,Joel Matip,Liverpool,2022,31,2790,3,3,2.72,2.08
+284,Divock Origi,Liverpool,2022,7,104,3,0,1.68,0
+285,Virgil van Dijk,Liverpool,2022,34,3060,3,1,2.17,1.56
+286,Andrew Robertson,Liverpool,2022,29,2550,3,10,2.27,6.2
+287,Naby Keita,Liverpool,2022,23,1181,3,1,2.14,1.81
+288,Takumi Minamino,Liverpool,2022,11,162,3,0,1.76,0.56
+289,Jordan Henderson,Liverpool,2022,35,2616,2,5,1.37,4.2
+290,Alex Oxlade-Chamberlain,Liverpool,2022,17,783,2,1,1.18,1.27
+291,Trent Alexander-Arnold,Liverpool,2022,32,2856,2,12,2.19,12.69
+292,Thiago Alcántara,Liverpool,2022,25,1531,1,4,1.63,2.58
+293,Curtis Jones,Liverpool,2022,15,869,1,1,0.83,0.68
+294,James Milner,Liverpool,2022,24,836,0,1,0.34,2.18
+295,Joseph Gomez,Liverpool,2022,8,333,0,1,0.01,0.71
+296,Alisson,Liverpool,2022,36,3240,0,1,0,0.13
+297,Ibrahima Konaté,Liverpool,2022,11,990,0,0,0.21,0
+298,Harvey Elliott,Liverpool,2022,6,348,0,0,0.61,0.52
+299,Caoimhin Kelleher,Liverpool,2022,2,180,0,0,0,0
+300,Neco Williams,Liverpool,2022,1,6,0,1,0,0.6
+301,Konstantinos Tsimikas,Liverpool,2022,13,866,0,2,0.67,2.13
+302,Tyler Morton,Liverpool,2022,2,68,0,0,0,0
+303,Kaide Gordon,Liverpool,2022,1,7,0,0,0.49,0
+304,Kevin De Bruyne,Man City,2022,30,2214,15,8,5.95,11.26
+305,Raheem Sterling,Man City,2022,30,2119,13,5,15.78,5.02
+306,Riyad Mahrez,Man City,2022,28,1468,11,5,10.12,3.93
+307,Phil Foden,Man City,2022,28,2141,9,5,9.26,6.83
+308,Ilkay Gündogan,Man City,2022,27,1852,8,4,9.72,4.72
+309,Bernardo Silva,Man City,2022,35,2865,8,4,7.77,6.57
+310,Gabriel Jesus,Man City,2022,28,1885,8,8,10.15,5.91
+311,Rodri,Man City,2022,33,2901,7,2,2.72,1.55
+312,Aymeric Laporte,Man City,2022,33,2848,4,0,4.45,0.61
+313,Jack Grealish,Man City,2022,26,1929,3,3,5.53,5.46
+314,Nathan Aké,Man City,2022,14,920,2,0,1.3,0.62
+315,Fernandinho,Man City,2022,19,943,2,1,1.61,1.34
+316,Ferrán Torres,Man City,2022,4,308,2,1,2.51,0.02
+317,Rúben Dias,Man City,2022,29,2403,2,4,2.54,3.16
+318,John Stones,Man City,2022,14,1114,1,0,1.21,0.16
+319,João Cancelo,Man City,2022,36,3233,1,7,4.54,6.01
+320,Kyle Walker,Man City,2022,20,1759,0,2,0.22,1.46
+321,Oleksandr Zinchenko,Man City,2022,15,1026,0,4,0.49,2.31
+322,Benjamin Mendy,Man City,2022,1,80,0,0,0,0.29
+323,Ederson,Man City,2022,37,3330,0,0,0,0
+324,Zack Steffen,Man City,2022,1,90,0,0,0,0
+325,Cole Palmer,Man City,2022,4,123,0,0,0.28,0.45
+326,Liam Delap,Man City,2022,1,7,0,0,0,0
+327,James McAtee,Man City,2022,2,15,0,0,0.09,0
+328,CJ Egan-Riley,Man City,2022,1,1,0,0,0,0
+329,Kayky,Man City,2022,1,5,0,0,0,0
+330,Cristiano Ronaldo,Man United,2022,30,2468,18,3,17.21,4.45
+331,Bruno Fernandes,Man United,2022,36,3135,10,6,9.29,8.81
+332,Mason Greenwood,Man United,2022,18,1305,5,1,4.48,1.33
+333,Marcus Rashford,Man United,2022,25,1229,4,2,2.82,2.43
+334,Fred,Man United,2022,28,2038,4,4,1.09,2.33
+335,Jadon Sancho,Man United,2022,29,1891,3,3,4.23,4.08
+336,Jesse Lingard,Man United,2022,16,338,2,0,0.77,0.46
+337,Edinson Cavani,Man United,2022,15,745,2,1,3.73,1.25
+338,Anthony Elanga,Man United,2022,21,1218,2,2,2.98,1.93
+339,Anthony Martial,Man United,2022,8,202,1,0,1.17,0
+340,Harry Maguire,Man United,2022,30,2518,1,0,2.24,0.14
+341,Paul Pogba,Man United,2022,20,1371,1,9,2.19,3.84
+342,Raphael Varane,Man United,2022,22,1823,1,1,0.75,0.21
+343,Scott McTominay,Man United,2022,30,2410,1,1,1.48,1.69
+344,Donny van de Beek,Man United,2022,8,59,1,0,0.74,0.39
+345,David de Gea,Man United,2022,38,3420,0,0,0,0
+346,Juan Mata,Man United,2022,7,225,0,0,0.34,0.34
+347,Nemanja Matic,Man United,2022,23,1386,0,4,0.2,1.85
+348,Phil Jones,Man United,2022,4,162,0,0,0,0
+349,Luke Shaw,Man United,2022,20,1609,0,3,0.17,3.69
+350,Eric Bailly,Man United,2022,4,220,0,0,0,0
+351,Alex Telles,Man United,2022,21,1659,0,4,0.45,2.17
+352,Aaron Wan-Bissaka,Man United,2022,20,1795,0,0,0.29,0.92
+353,Daniel James,Man United,2022,2,130,0,0,0.26,0.53
+354,Victor Lindelöf,Man United,2022,28,2349,0,2,0.19,0.66
+355,Diogo Dalot,Man United,2022,24,1790,0,0,0.66,0.85
+356,Shola Shoretire,Man United,2022,1,14,0,0,0,0
+357,Hannibal Mejbri,Man United,2022,2,68,0,0,0.05,0
+358,Alejandro Garnacho,Man United,2022,2,11,0,0,0,0
+359,Callum Wilson,Newcastle,2022,18,1401,8,0,7.04,0.53
+360,Allan Saint-Maximin,Newcastle,2022,35,2825,5,5,5.66,5.26
+361,Bruno Guimarães,Newcastle,2022,17,1031,5,1,4.09,1.74
+362,Joelinton,Newcastle,2022,35,2554,4,1,3.82,1.88
+363,Fabian Schär,Newcastle,2022,25,2167,2,2,0.84,1.48
+364,Kieran Trippier,Newcastle,2022,6,434,2,0,0.23,0.24
+365,Jonjo Shelvey,Newcastle,2022,24,1987,2,1,0.88,1.06
+366,Ryan Fraser,Newcastle,2022,27,1476,2,3,2.87,2.15
+367,Chris Wood,Newcastle,2022,17,1331,2,0,3.25,0.98
+368,Joe Willock,Newcastle,2022,29,2063,2,0,3.68,1.13
+369,Jamaal Lascelles,Newcastle,2022,26,2052,1,0,1.34,0.23
+370,Javier Manquillo,Newcastle,2022,19,1273,1,2,0.38,0.47
+371,Jeff Hendrick,Newcastle,2022,3,65,1,0,0.02,0.02
+372,Isaac Hayden,Newcastle,2022,14,1008,1,0,0.29,0.06
+373,Jacob Murphy,Newcastle,2022,33,1418,1,2,2.59,2.39
+374,Sean Longstaff,Newcastle,2022,24,1459,1,1,0.78,0.46
+375,Miguel Almirón,Newcastle,2022,30,1730,1,0,1.71,1
+376,Matt Ritchie,Newcastle,2022,18,1335,0,2,0.37,1.96
+377,Federico Fernández,Newcastle,2022,7,523,0,0,0.34,0.28
+378,Dwight Gayle,Newcastle,2022,8,20,0,0,0.21,0.41
+379,Karl Darlow,Newcastle,2022,8,720,0,0,0,0
+380,Freddie Woodman,Newcastle,2022,4,360,0,0,0,0
+381,Paul Dummett,Newcastle,2022,3,199,0,0,0,0
+382,Ciaran Clark,Newcastle,2022,13,1011,0,1,1.01,0.2
+383,Matt Targett,Newcastle,2022,16,1440,0,0,0.28,1.7
+384,Emil Krafth,Newcastle,2022,20,1636,0,1,0.23,1.04
+385,Martin Dubravka,Newcastle,2022,26,2340,0,0,0,0.03
+386,Dan Burn,Newcastle,2022,16,1440,0,1,0.65,0.76
+387,Jamal Lewis,Newcastle,2022,5,261,0,0,0,0.03
+388,Teemu Pukki,Norwich,2022,37,3278,11,3,11.45,4.06
+389,Joshua Sargent,Norwich,2022,26,1578,2,1,2.07,0.54
+390,Kieran Dowell,Norwich,2022,19,912,1,1,1.25,1.24
+391,Pierre Lees-Melou,Norwich,2022,33,2293,1,0,1.36,1.86
+392,Milot Rashica,Norwich,2022,31,2248,1,2,2.57,1.91
+393,Mathias Normann,Norwich,2022,23,1661,1,2,0.84,2.29
+394,Grant Hanley,Norwich,2022,33,2899,1,0,1.7,0.4
+395,Kenny McLean,Norwich,2022,31,2710,1,0,1.92,1.09
+396,Adam Idah,Norwich,2022,17,611,1,1,1.93,0.46
+397,Andrew Omobamidele,Norwich,2022,5,380,1,0,0.17,0
+398,Lukas Rupp,Norwich,2022,19,744,0,0,0.47,1.3
+399,Sam Byram,Norwich,2022,15,1019,0,0,0.36,0.26
+400,Tim Krul,Norwich,2022,29,2610,0,0,0,0.48
+401,Ben Gibson,Norwich,2022,28,2496,0,0,1.36,0.12
+402,Angus Gunn,Norwich,2022,9,810,0,0,0,0
+403,Ozan Kabak,Norwich,2022,11,926,0,0,0.58,0.03
+404,Max Aarons,Norwich,2022,34,2882,0,2,0.84,1.79
+405,Todd Cantwell,Norwich,2022,8,443,0,0,0.12,0.31
+406,Billy Gilmour,Norwich,2022,24,1864,0,1,0.84,1.05
+407,Christoph Zimmermann,Norwich,2022,3,162,0,0,0.04,0
+408,Brandon Williams,Norwich,2022,26,2120,0,1,0.16,1.92
+409,Dimitris Giannoulis,Norwich,2022,18,1170,0,1,0.1,0.54
+410,Christos Tzolis,Norwich,2022,14,321,0,0,0.33,0.77
+411,Bali Mumba,Norwich,2022,1,43,0,0,0,0
+412,Jacob Sørensen,Norwich,2022,10,595,0,0,0.19,0
+413,Przemyslaw Placheta,Norwich,2022,12,513,0,0,0.4,0.59
+414,Jonathan Rowe,Norwich,2022,13,179,0,1,0.2,0.41
+415,Tony Springett,Norwich,2022,3,138,0,0,0.52,0.51
+416,James Ward-Prowse,Southampton,2022,36,3222,10,5,5.09,6.4
+417,Che Adams,Southampton,2022,30,2039,7,3,8.29,2.85
+418,Armando Broja,Southampton,2022,32,1986,6,0,5.89,1.46
+419,Jan Bednarek,Southampton,2022,31,2637,4,0,2.79,0.37
+420,Mohamed Elyounoussi,Southampton,2022,30,2048,4,2,6.58,2.23
+421,Oriol Romeu,Southampton,2022,36,2905,2,2,1.5,3.04
+422,Adam Armstrong,Southampton,2022,23,1412,2,2,4.24,1.62
+423,Stuart Armstrong,Southampton,2022,25,1456,2,0,2.76,1.62
+424,Nathan Redmond,Southampton,2022,27,1829,1,5,1.63,4.07
+425,Shane Long,Southampton,2022,13,303,1,0,1.17,0.13
+426,Kyle Walker-Peters,Southampton,2022,32,2631,1,2,1.33,3.33
+427,Valentino Livramento,Southampton,2022,28,2202,1,1,1.15,2.96
+428,Theo Walcott,Southampton,2022,9,387,0,0,0.86,0.02
+429,Willy Caballero,Southampton,2022,2,180,0,0,0,0
+430,Alex McCarthy,Southampton,2022,17,1530,0,0,0,0.02
+431,Fraser Forster,Southampton,2022,19,1710,0,0,0,0
+432,Jack Stephens,Southampton,2022,11,806,0,0,0,0.24
+433,Lyanco,Southampton,2022,15,898,0,0,0.26,0.17
+434,Romain Perraud,Southampton,2022,20,1630,0,1,0.73,0.4
+435,Ibrahima Diallo,Southampton,2022,23,1008,0,2,0.34,1.04
+436,Mohammed Salisu,Southampton,2022,34,2972,0,0,1.79,0.54
+437,Yan Valery,Southampton,2022,5,368,0,0,0.03,0.26
+438,Moussa Djenepo,Southampton,2022,12,449,0,0,1.28,0.27
+439,William Smallbone,Southampton,2022,4,136,0,0,0.07,0.05
+440,Nathan Tella,Southampton,2022,14,831,0,1,0.68,0.63
+441,Son Heung-Min,Tottenham,2022,35,3051,23,7,16.99,7.85
+442,Harry Kane,Tottenham,2022,37,3229,17,9,20.69,9.82
+443,Dejan Kulusevski,Tottenham,2022,18,1276,5,8,3.02,4.15
+444,Steven Bergwijn,Tottenham,2022,25,518,3,1,3.34,0.89
+445,Pierre-Emile Højbjerg,Tottenham,2022,36,3202,2,2,2.64,2.54
+446,Lucas Moura,Tottenham,2022,34,1770,2,6,3.36,5.32
+447,Davinson Sánchez,Tottenham,2022,23,1618,2,0,2,0.29
+448,Matt Doherty,Tottenham,2022,15,864,2,4,3.09,2.03
+449,Sergio Reguilón,Tottenham,2022,25,1929,2,3,2.97,3.53
+450,Dele Alli,Tottenham,2022,10,664,1,0,1.4,0.5
+451,Ben Davies,Tottenham,2022,29,2542,1,1,2.48,0.65
+452,Tanguy NDombele Alvaro,Tottenham,2022,9,490,1,1,0.54,0.62
+453,Cristian Romero,Tottenham,2022,22,1850,1,0,0.41,0.38
+454,Emerson,Tottenham,2022,31,2296,1,1,2.02,2.45
+455,Hugo Lloris,Tottenham,2022,38,3420,0,0,0,0.21
+456,Eric Dier,Tottenham,2022,35,3071,0,0,1.56,1.32
+457,Harry Winks,Tottenham,2022,19,896,0,1,0.07,1.52
+458,Giovani Lo Celso,Tottenham,2022,9,223,0,0,0.73,1.06
+459,Rodrigo Bentancur,Tottenham,2022,17,1376,0,4,0.58,3.09
+460,Joe Rodon,Tottenham,2022,3,86,0,0,0,0
+461,Ryan Sessegnon,Tottenham,2022,15,1065,0,2,0.38,3.28
+462,Oliver Skipp,Tottenham,2022,18,1340,0,0,0.15,0.76
+463,Bryan Gil Salvatierra,Tottenham,2022,9,76,0,0,0.1,0.1
+464,Japhet Tanganga,Tottenham,2022,11,751,0,0,0.45,0.25
+465,Dane Scarlett,Tottenham,2022,1,2,0,0,0,0
+466,Emmanuel Dennis,Watford,2022,33,2612,10,6,7.01,3.96
+467,Joshua King,Watford,2022,32,2247,5,3,8.28,4
+468,Ismaila Sarr,Watford,2022,22,1872,5,2,4.25,2.92
+469,Juan Camilo Hernández,Watford,2022,25,1125,5,2,2.66,1.7
+470,João Pedro,Watford,2022,28,1619,3,1,4.45,2.1
+471,Moussa Sissoko,Watford,2022,36,3222,2,1,4.18,2.61
+472,Dan Gosling,Watford,2022,4,167,1,0,0.2,0.05
+473,Juraj Kucka,Watford,2022,26,1928,1,1,2.51,1.06
+474,Hassane Kamara,Watford,2022,19,1627,1,0,0.16,0.66
+475,Troy Deeney,Watford,2022,2,19,0,0,0.11,0.03
+476,Craig Cathcart,Watford,2022,31,2395,0,1,0.16,1.42
+477,Tom Cleverley,Watford,2022,28,1644,0,2,0.71,1.43
+478,Danny Rose,Watford,2022,8,692,0,0,0.16,0.63
+479,Ben Foster,Watford,2022,26,2340,0,1,0,0.07
+480,Daniel Bachmann,Watford,2022,12,1080,0,0,0,0
+481,Samir,Watford,2022,19,1682,0,0,0.39,0.14
+482,Adam Masina,Watford,2022,15,1073,0,1,0.27,0.82
+483,Ashley Fletcher,Watford,2022,3,24,0,0,0.44,0
+484,Christian Kabasele,Watford,2022,16,1188,0,0,1.31,0.18
+485,Nicolas N'Koulou,Watford,2022,3,167,0,0,0,0.01
+486,Kiko Femenía,Watford,2022,27,2157,0,5,0.06,3.58
+487,Oghenekaro Etebo,Watford,2022,9,387,0,0,0.04,0.12
+488,Ken Sema,Watford,2022,18,835,0,0,0.15,1.59
+489,Samuel Kalu,Watford,2022,4,220,0,0,0.39,0.29
+490,William Troost-Ekong,Watford,2022,17,1381,0,0,0.1,0.07
+491,Francisco Sierralta,Watford,2022,5,430,0,0,0.03,0
+492,Imran Louza,Watford,2022,20,1443,0,0,1.17,0.83
+493,Jeremy Ngakia,Watford,2022,16,895,0,0,0.09,0.86
+494,Ozan Tufan,Watford,2022,7,341,0,0,0.35,0.26
+495,Edo Kayembe,Watford,2022,13,793,0,0,0.14,0.42
+496,Jarrod Bowen,West Ham,2022,36,3003,12,10,12.93,5.82
+497,Michail Antonio,West Ham,2022,36,2994,10,8,12.79,5.77
+498,Said Benrahma,West Ham,2022,32,2208,8,6,6.16,4.77
+499,Pablo Fornals,West Ham,2022,36,2805,6,3,5.14,5.97
+500,Manuel Lanzini,West Ham,2022,30,1801,5,3,3.38,2.59
+501,Tomas Soucek,West Ham,2022,35,3062,5,1,5.5,2.17
+502,Aaron Cresswell,West Ham,2022,31,2734,2,3,0.91,3.67
+503,Craig Dawson,West Ham,2022,34,2760,2,2,2.94,1.04
+504,Angelo Ogbonna,West Ham,2022,11,921,1,0,0.61,0
+505,Mark Noble,West Ham,2022,11,321,1,0,1.52,0.02
+506,Kurt Zouma,West Ham,2022,24,2083,1,0,0.81,0.08
+507,Arthur Masuaku,West Ham,2022,13,626,1,1,0.07,0.76
+508,Declan Rice,West Ham,2022,36,3175,1,4,1.04,1.56
+509,Andriy Yarmolenko,West Ham,2022,19,278,1,0,0.77,0.21
+510,Nikola Vlasic,West Ham,2022,19,548,1,0,0.91,0.61
+511,Ben Johnson,West Ham,2022,20,1402,1,0,0.15,0.56
+512,Lukasz Fabianski,West Ham,2022,37,3330,0,0,0,0
+513,Alphonse Areola,West Ham,2022,1,90,0,0,0,0
+514,Issa Diop,West Ham,2022,13,964,0,1,0.06,0.29
+515,Ryan Fredericks,West Ham,2022,7,296,0,0,0,0.12
+516,Alex Kral,West Ham,2022,1,1,0,0,0,0
+517,Vladimir Coufal,West Ham,2022,28,2211,0,4,0.56,2.71
+518,Harrison Ashby,West Ham,2022,1,6,0,0,0,0
+519,Sonny Perkins,West Ham,2022,1,1,0,0,0,0
+520,Daniel Chesters,West Ham,2022,1,1,0,0,0,0
+521,Raúl Jiménez,Wolverhampton,2022,34,2651,6,4,7.07,3.39
+522,Hee-Chan Hwang,Wolverhampton,2022,30,1804,5,1,4.2,1.61
+523,Conor Coady,Wolverhampton,2022,38,3369,4,0,2.33,0.08
+524,Rúben Neves,Wolverhampton,2022,33,2674,4,2,1.12,2.24
+525,Jonny,Wolverhampton,2022,13,1020,2,0,0.87,1.13
+526,João Moutinho,Wolverhampton,2022,35,2987,2,1,1.12,2.77
+527,Romain Saiss,Wolverhampton,2022,31,2721,2,0,3.2,0.32
+528,Leander Dendoncker,Wolverhampton,2022,30,1941,2,2,2.45,0.97
+529,Daniel Podence,Wolverhampton,2022,26,1491,2,3,2,4.25
+530,Trincão,Wolverhampton,2022,28,1359,2,1,3.6,1.49
+531,Adama Traoré,Wolverhampton,2022,20,1047,1,0,2.83,1.34
+532,Pedro Neto,Wolverhampton,2022,13,451,1,1,1.64,1.5
+533,Rayan Ait Nouri,Wolverhampton,2022,23,1820,1,2,0.55,1.65
+534,Max Kilman,Wolverhampton,2022,30,2693,1,0,1.38,0.14
+535,John Ruddy,Wolverhampton,2022,2,129,0,0,0,0
+536,Fernando Marçal,Wolverhampton,2022,18,1468,0,0,0.6,0.72
+537,Nélson Semedo,Wolverhampton,2022,25,2151,0,1,1.39,1.36
+538,Willy Boly,Wolverhampton,2022,10,900,0,0,0.09,0.06
+539,Morgan Gibbs-White,Wolverhampton,2022,2,4,0,0,0.1,0
+540,Luke Cundle,Wolverhampton,2022,4,181,0,0,0,0.53
+541,Ki-Jana Hoever,Wolverhampton,2022,8,304,0,0,0.03,0.09
+542,Fabio Silva,Wolverhampton,2022,22,558,0,0,2.74,0.41
+543,José Sá,Wolverhampton,2022,37,3291,0,1,0,0.4
+544,Chem Campbell,Wolverhampton,2022,1,9,0,0,0,0
+545,Toti,Wolverhampton,2022,4,360,0,0,0.04,0
+546,Chiquinho,Wolverhampton,2022,8,191,0,3,0.56,1.09
